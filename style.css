@@ -1,0 +1,40 @@
+body{
+    background: rgb(187, 187, 213);
+    font: normal 15px Arial;
+   
+}
+
+header{
+    color:white;
+    text-align: center;
+   /* font-size: 1rem;*/ /* 1 rem => Equivale a 1 x 15px do Root da Tela especificada no body */
+}
+
+section{
+    background:white;
+    border-radius:10px;
+    padding: 15px;
+    width: 80%;
+    max-width:500px;
+    margin:auto;
+    box-shadow: 5px 5px 10px rgba(38, 36, 36, 0.589);
+}
+
+div{
+    text-align:center;
+    padding:8px;
+}
+
+
+
+footer{
+    color:white;
+    text-align: center;
+    font-style: italic;
+    margin:auto;
+}
+
+
+/* RESPONSIVIDADE */
+
+
